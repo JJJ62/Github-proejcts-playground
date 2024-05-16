@@ -1,1 +1,4 @@
 node_modules
+.bs_store
+.tmp
+npa-debug.log
